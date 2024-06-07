@@ -9,3 +9,5 @@ resource "aws_instance" "dev" {
       Name = "dev-ec2"
     }
 }
+
+#srinu
